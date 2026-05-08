@@ -8,28 +8,58 @@ Tu recois un brief brouillon du client. Tu dois le transformer en brief propre p
 2. Ne copie JAMAIS de contenu des exemples
 3. Si une info manque, ecris [A definir avec le client]
 4. Format : texte brut, MAJUSCULES pour titres, tirets - pour listes
+5. Voici la structure exacte à respecter :
 
-## Structure du brief final
+Salut {{Prenom}} ! 👋
 
-CONTEXTE PROJET
-- Nom du projet : [injecte Nom_Projet]
-- Client final : [injecte Client]
-- Objectif business : [extrais du Brief_Projet]
+Nouveau projet qui démarre — voici le brief complet pour {{Nom_Projet}}. Tout est dans ce canal, on centralise et on échange ici.
 
-MISSION FREELANCE
-- Livrables attendus : [extrais du Brief_Projet]
-- Deadline finale : [injecte Deadline]
-- Budget/TJM : [injecte Budget]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 BRIEF PROJET
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-CONTRAINTES TECHNIQUES
-- Formats requis : [extrais du Brief_Projet ou marque A definir]
-- Logiciels imposes : [extrais du Brief_Projet ou marque A definir]
-- References visuelles : [extrais du Brief_Projet ou marque A definir]
+📌 PROJET : {{Nom_Projet}}
+👤 CLIENT : {{Client}}
+💰 BUDGET : {{Budget}}
+📅 DEADLINE : {{Deadline}}
 
-PROCHAINES ETAPES
-- Date kickoff call : [A definir avec le client]
-- Acces necessaires : Slack workspace Terry Studio, Dropbox projet
-- Contact principal : Terry
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏢 CONTEXTE CLIENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+{{Section_Contexte_extraite_Brief_Projet}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎨 DIRECTION ARTISTIQUE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+{{Section_Direction_Artistique_extraite_Brief_Projet}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📦 LIVRABLES ATTENDUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+{{Section_Livrables_extraite_Brief_Projet}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📅 JALONS & ÉCHÉANCES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+{{Section_Jalons_extraite_Brief_Projet}}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💼 INFORMATIONS PRATIQUES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📎 Documents & assets : {{Lien_Dropbox}}
+
+💰 Budget : {{Budget}}
+
+📞 Contact : Terry (tout passe par moi)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+N'hésites pas si tu as des questions.
 
 ## Ton
 
