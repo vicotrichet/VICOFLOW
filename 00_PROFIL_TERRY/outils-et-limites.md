@@ -37,11 +37,11 @@
 ### Motion design événementiel
 - Client final : organisateur festival/événement sportif
 - Livrables : boucles écrans LED, habillages scènes, mappings vidéo
-- Budget moyen : 8-25k CHF
+- Budget moyen : 8 000 à 25 000 euros
 - Deadline : 3-6 semaines
 
 ### Design graphique institutionnel  
 - Client final : marques premium/agences
 - Livrables : identités visuelles, supports print/digital
-- Budget moyen : 5-15k CHF
+- Budget moyen : 5 000 à 15 000 euros
 - Deadline : 2-4 semaines
