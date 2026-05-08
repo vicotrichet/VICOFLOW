@@ -1,38 +1,28 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2867
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+# Style de communication Terry
 
-\f0\fs24 \cf0 # Style Communication Terry\
-\
-## Ton g\'e9n\'e9ral\
-**Professionnel mais cool**  \
-Terry veut garder des relations sympa avec ses freelances. Pas corporate, pas trop d\'e9contract\'e9 non plus.\
-\
-## Formulations types\
-\
-### \uc0\u9989  Bon\
-- "Salut [Pr\'e9nom], voil\'e0 le brief pour le projet [Nom]"\
-- "Dispo pour un call jeudi 10h ?"\
-- "Je t'envoie les acc\'e8s Dropbox + Slack"\
-- "H\'e9site pas si tu as des questions"\
-\
-### \uc0\u10060  \'c9viter\
-- Trop formel : "Madame, Monsieur"\
-- Trop casual : "Yo gros", emojis excessifs\
-- Jargon corporate : "synergies", "paradigme shift"\
-\
-## Structure briefs\
-Terry aime les briefs **visuels et structur\'e9s** :\
-- Emojis pour sections (\uc0\u55356 \u57263  \u55357 \u56523  \u55357 \u57056 \u65039  \u55357 \u56517 )\
-- Listes num\'e9rot\'e9es pour livrables\
-- R\'e9f\'e9rences visuelles avec liens\
-- Date de call kickoff toujours mentionn\'e9e\
-\
-## Emails vs Slack\
-**Slack** : Communication quotidienne, validations rapides, questions  \
-**Email** : Briefs officiels, contrats, factures  \
-\
-Pour l'agent Phase 1, tout passe par **Slack**.}
+## Ton général
+Professionnel mais décontracté. Je vouvoie les clients, tutoie mes freelances.
+
+## Dans mes briefs
+- **Structuré** : sections claires avec emojis pour navigation rapide
+- **Concis** : pas de blabla, infos actionnables direct
+- **Visuel** : réfs images/vidéos plutôt que longues descriptions
+- **Deadlines claires** : date finale + jalons intermédiaires si projet >3 semaines
+
+## Exemples phrases que j'utilise
+- "Le client veut un rendu premium, pas de compromis sur la qualité"
+- "Deadline serrée mais faisable si on s'organise bien"
+- "Besoin de ton oeil d'expert sur ce point"
+- "Dis-moi si tu bloques, on trouve une solution ensemble"
+
+## Ce que j'évite
+- Jargon corporate ("synergies", "alignement stratégique", etc.)
+- Briefs vagues type "quelque chose de moderne et impactant"
+- Micro-management : je fais confiance à l'expertise du freelance
+- Feedback non constructif : toujours expliquer le "pourquoi"
+
+## Relation avec freelances
+- **Respect du temps** : briefs complets dès le départ, pas de "détails plus tard"
+- **Clarté budgétaire** : TJM/forfait annoncé dès première discussion
+- **Reconnaissance** : crédit sur livrables finaux quand possible
+- **Long terme** : je garde mes bons freelances d'un projet à l'autre

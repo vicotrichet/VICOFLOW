@@ -1,22 +1,34 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2867
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+# Brief brouillon SwissRun
 
-\f0\fs24 \cf0 Salut Bob,\
-\
-On bosse avec une asso sport/sant\'e9 qui organise un gros event en juillet. Ils veulent 3 vid\'e9os motion pour teaser l'event sur Insta/LinkedIn.\
-\
-Budget 4500\'80, deadline mi-juin max parce qu'ils lancent la com d\'e9but juillet.\
-\
-Style : dynamique, couleurs vives, musique \'e9nergique. R\'e9f\'e9rences Nike "Just Do It" ou les trucs Adidas pendant les JO de Tokyo.\
-\
-Format : 30 sec chaque vid\'e9o. Tu livres les sources AE + les exports HD et mobile.\
-\
-Dispo jeudi 15 mai \'e0 10h pour call kickoff ?\
-\
-Je t'envoie les acc\'e8s Dropbox et Slack apr\'e8s.\
-\
-Terry}
+Salut,
+
+Projet motion pour course SwissRun à Lausanne. Besoin de 3 boucles vidéo pour écrans LED événement.
+
+**Livrables:**
+- Boucle départ (60sec) avec countdown + logos sponsors
+- Boucle arrivée (90sec) avec classement temps réel
+- 5 boucles sponsors verticales (30sec chacune)
+
+**Deadline:** 15 mai, event le 17 mai donc besoin 48h marge validation client
+
+**Budget:** 8.5k CHF pour toi (mon budget total 18k)
+
+**Technique:**
+- 4K pour départ/arrivée, Full HD pour sponsors verticaux
+- MP4 H.264, 60fps minimum  
+- AE + Premiere
+- Ref style Nike Run Club + Red Bull events
+
+**Accès:**
+- Dropbox déjà setup : `/PROJETS_CLIENTS/SwissRun/motion-event-sportif/`
+- Logos sponsors + charte graphique déjà dedans
+- Canal Slack `#swissrun-motion` créé
+
+**Jalons:**
+- Moodboard J+3
+- Animatiques J+7  
+- Final J+12
+
+Dispo pour kickoff call cette semaine?
+
+Terry
