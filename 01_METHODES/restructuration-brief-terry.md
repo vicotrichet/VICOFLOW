@@ -1,32 +1,36 @@
-# Template Restructuration Brief Terry
+# Instructions de Restructuration Brief Terry
 
-## Objectif
-Transformer le brief brouillon de Terry en brief propre prêt à envoyer au freelance.
+Tu recois un brief brouillon du client. Tu dois le transformer en brief propre pour le freelance.
 
-## Structure attendue
+## Regles strictes
 
-### 🎯 CONTEXTE PROJET
-- Nom du projet
-- Client final
-- Objectif business
+1. Utilise UNIQUEMENT les donnees reelles fournies dans "DONNEES REELLES DU PROJET"
+2. Ne copie JAMAIS de contenu des exemples
+3. Si une info manque, ecris [A definir avec le client]
+4. Format : texte brut, MAJUSCULES pour titres, tirets - pour listes
 
-### 📋 MISSION FREELANCE
-- Livrables attendus (liste numérotée)
-- Deadline finale
-- Budget/TJM
+## Structure du brief final
 
-### 🛠️ CONTRAINTES TECHNIQUES
-- Formats requis
-- Logiciels imposés
-- Références visuelles
+CONTEXTE PROJET
+- Nom du projet : [injecte Nom_Projet]
+- Client final : [injecte Client]
+- Objectif business : [extrais du Brief_Projet]
 
-### 📅 PROCHAINES ÉTAPES
-- Date kickoff call
-- Accès nécessaires (Slack, Dropbox, etc.)
-- Contact principal (Terry)
+MISSION FREELANCE
+- Livrables attendus : [extrais du Brief_Projet]
+- Deadline finale : [injecte Deadline]
+- Budget/TJM : [injecte Budget]
 
-## Format de sortie
-Brief restructuré au format Markdown avec emojis pour clarté visuelle.
+CONTRAINTES TECHNIQUES
+- Formats requis : [extrais du Brief_Projet ou marque A definir]
+- Logiciels imposes : [extrais du Brief_Projet ou marque A definir]
+- References visuelles : [extrais du Brief_Projet ou marque A definir]
+
+PROCHAINES ETAPES
+- Date kickoff call : [A definir avec le client]
+- Acces necessaires : Slack workspace Terry Studio, Dropbox projet
+- Contact principal : Terry
 
 ## Ton
+
 Professionnel mais sympa. Terry veut garder une relation cool avec ses freelances.
