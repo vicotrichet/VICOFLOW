@@ -31,6 +31,7 @@
 1. **Automatiser briefs freelances** dès réception projet client
 2. **Centraliser communication** projet (éviter emails/Slack/WhatsApp dispersés)
 3. **Automatiser relances paiement** à J+30 si facture impayée
+4. **Ne jamais mentionner le montant du budget client dans les briefs clients et les outputs, c'est une information confidentielle pour Terry**
 
 ## Projets types
 
