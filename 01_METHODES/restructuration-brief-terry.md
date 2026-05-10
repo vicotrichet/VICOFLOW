@@ -20,7 +20,6 @@ Nouveau projet qui démarre — voici le brief complet pour {{Nom_Projet}}. Tout
 
 📌 PROJET : {{Nom_Projet}}
 👤 CLIENT : {{Client}}
-💰 BUDGET : {{Budget}}
 📅 DEADLINE : {{Deadline}}
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -52,8 +51,6 @@ Nouveau projet qui démarre — voici le brief complet pour {{Nom_Projet}}. Tout
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📎 Documents & assets : {{Lien_Dropbox}}
-
-💰 Budget : {{Budget}}
 
 📞 Contact : Terry (tout passe par moi)
 
